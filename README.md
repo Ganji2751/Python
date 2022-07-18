@@ -1,2 +1,2 @@
 # Python
-Deloitte Training Week-1
+Deloitte Training Week-2
